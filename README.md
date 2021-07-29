@@ -14,4 +14,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with anything? Check out our [documentation](https://github.com/Atlas-Night-Out/xDrip-plus/wiki) or [contact support](support@thediabeticway.co.uk) and we’ll help you sort it out.
+Having trouble with anything? Check out our [documentation](https://github.com/Atlas-Night-Out/xDrip-plus/wiki) or [contact support]<support@thediabeticway.co.uk> and we’ll help you sort it out.
