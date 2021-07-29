@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome the Diabetes Help Links Page
 
 You can use the [editor on GitHub](https://github.com/Atlas-Night-Out/Diabeteshelplinks/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
