@@ -3,7 +3,7 @@
 You can see a full listing of links here [editor on GitHub Wiki](https://github.com/Atlas-Night-Out/Diabeteshelplinks/wiki) to help maintain your Diabetes needs.
  Anything is better than nothing as quoted by me! :-)  
 
-tets
+
 
 
 ### Support or Contact
